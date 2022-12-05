@@ -1,2 +1,2 @@
-# MEFIANCEFINAL
-jogo pronto
+# MEFIANCE - MORANDO NO MISTÉRIO
+Jogo finalizado.
